@@ -1,1 +1,1 @@
-# ethiomart-amharic-ner
+# EthioMart -Building an Amharic E-commerce Data Extractor
